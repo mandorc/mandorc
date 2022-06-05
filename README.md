@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Armando
+# Hi there 👋, my name is Armando
 
 ![](https://raw.githubusercontent.com/mandorc/mandorc/main/assets/banner_black.png)
 

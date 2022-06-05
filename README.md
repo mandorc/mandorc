@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Armando
-![](https://raw.githubusercontent.com/mandorc/mandorc/main/assets/banner.png)
+![](https://raw.githubusercontent.com/mandorc/mandorc/main/assets/banner_black.png)
 
 I am currently studying my last year of university (I hope this does not change).
 

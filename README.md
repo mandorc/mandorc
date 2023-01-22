@@ -14,3 +14,5 @@ Skills: Java / Python / Swift
 ## 👨‍💻 Connect with me 
 
 Currently I'm not using social networks.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />

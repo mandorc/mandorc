@@ -11,9 +11,10 @@ Skills: Java / Python / Swift
 - 🤔 I’m looking for help with Web development 
 
 
-## 👨‍💻 Connect with me 
+## Projects
 
-Currently I'm not using social networks.
+ - [Tic-Tac-Toe using minimax algorithm](#)
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mandorc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  

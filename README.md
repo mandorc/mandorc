@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/mandorc/mandorc/main/assets/banner_black.png)
 
-I am currently studying my last year of university (I hope this does not change).
+I am currently studying my last semester of university.
 
 Skills: Java / Python / Swift
 

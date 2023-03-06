@@ -17,5 +17,7 @@ Skills: Java / Python / Swift / SQL
 
    **Language:** Java
 
- - **[Detection of mask use](#):**
+ - **[Detection of mask use](#):** Detection of mask use by training a supervised learning model in Python to detect whether or not a person is wearing a mask.
+
+  **Language:** Python
 

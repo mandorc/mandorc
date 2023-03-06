@@ -13,8 +13,6 @@ Skills: Java / Python / Swift
 
 ## Projects
 
+ - [Tic-Tac-Toe using minimax algorithm](#): 
  - [Tic-Tac-Toe using minimax algorithm](#)
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mandorc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  

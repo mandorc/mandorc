@@ -17,7 +17,7 @@ Skills: Java / Python / Swift / SQL
 
    **What i used:** MySQL and Java
 
- - **[Tic-Tac-Toe using minimax algorithm](#):** Proposal for the famous tic-tac-toe game where the user can choose whether to play against another person or against the system through a graphical interface. The movements that the system chooses are through the **minimax algorithm**.
+ - **[Tic-Tac-Toe using minimax algorithm](https://github.com/mandorc/Tic-Tac-Toe-Project):** Proposal for the famous tic-tac-toe game where the user can choose whether to play against another person or against the system through a graphical interface. The movements that the system chooses are through the **minimax algorithm**.
 
    **Language:** Java
 

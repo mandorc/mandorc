@@ -11,6 +11,25 @@ Skills: Java / Python / Swift / SQL
 - 🤔 I’m looking to improve my data structures skills. 
 
 
+```javascript
+const mando = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python", "Swift", "JS"],
+    askMeAbout: ["tech", "ui/ux", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            java: ["Spring boot"],
+        },
+        mobileApp: {
+            native: ["iOS development"]
+        },
+        databases: ["MySql", "sqlite", "mongodb"],
+        devOps: ["AWS", "Docker"],
+        misc: ["open-cv", "php", "TensorFlow"]
+    }
+};
+```
+
 ## Projects
 
 - **Database management system:** I developed a system for the management of all the data and the administration of a biotechnology center, in which trades and reports can be generated automatically, as well as consultation of the database. The system works within the laboratory's internal network, so it can be accessed from different computers. For the development, JFrameForm, JInternalFrame Form, and components for the design of the graphical interface were used.

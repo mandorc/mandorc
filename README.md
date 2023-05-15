@@ -32,7 +32,7 @@ const mando = {
 
 ## Projects
 
-- **Database management system:** I developed a system for the management of all the data and the administration of a biotechnology center, in which trades and reports can be generated automatically, as well as consultation of the database. The system works within the laboratory's internal network, so it can be accessed from different computers. For the development, JFrameForm, JInternalFrame Form, and components for the design of the graphical interface were used.
+- **[Database management system:](#)** I developed a system for the management of all the data and the administration of a biotechnology center, in which trades and reports can be generated automatically, as well as consultation of the database. The system works within the laboratory's internal network, so it can be accessed from different computers. For the development, JFrameForm, JInternalFrame Form, and components for the design of the graphical interface were used.
 
    **What i used:** MySQL and Java
 

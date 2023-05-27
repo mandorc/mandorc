@@ -47,4 +47,4 @@ const mando = {
 - **[Mobile application design for the UDLAP university](https://github.com/mandorc/UI-Design-Project):** Using the Figma application, I developed the design of a design proposal for the improvement of the application aimed at UDLAP students.
 
 
-**Note:** If you want to check the code of any project, please let me know on twitter: [@codeMandorc](https://twitter.com/CodeMandorc)
+**Note:** If you want to check the code of any project, please let me know on twitter: [@codeMandorc](https://twitter.com/CodeMandorc).

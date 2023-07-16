@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/mandorc/mandorc/main/assets/banner_black.png)
 
-I am currently studying my last semester of university.
+I am a recent graduate of systems engineering.
 
 Skills: Java / Python / Swift / SQL
 

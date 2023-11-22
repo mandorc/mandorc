@@ -13,6 +13,10 @@ Skills: Java / Python / Swift / SQL
 
 ## Projects
 
+- **[Megaman Videogame:](https://github.com/mandorc/Portfolio-Videogame-Megaman)** Develop a Megaman style game for NES using Visual Studio and C#. The game was built entirely using only a single window, a picturebox and timers. The game map is drawn through a matrix that is later interpreted as an image.
+
+   **What i used:** C#, Visual Studio
+
 - **[Database management system:](https://github.com/mandorc/Portfolio-Database-management-system)** I developed a system for the management of all the data and the administration of a biotechnology center, in which trades and reports can be generated automatically, as well as consultation of the database. The system works within the laboratory's internal network, so it can be accessed from different computers. For the development, JFrameForm, JInternalFrame Form, and components for the design of the graphical interface were used.
 
    **What i used:** MySQL and Java
